@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="expanded_toolbar_height">80dp</dimen>
+    <dimen name="expanded_toolbar_title_margin_bottom">40dp</dimen>
+</resources>
